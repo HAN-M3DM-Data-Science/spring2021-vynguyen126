@@ -1,7 +1,8 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Vy Nguyen
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
@@ -10,7 +11,7 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FFtkFLNJZfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 
 ## What was the business problem?

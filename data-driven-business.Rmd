@@ -1,6 +1,7 @@
 ---
 title: "Assigment - Data Driven Business"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
@@ -9,16 +10,23 @@ output:
 
 Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FFtkFLNJZfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1">
+
+</iframe>
 
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The CEO of Big Fish Casnio designed the VIP system to target the tiny fraction of players who will actually pay.
+
+The strategy forces to track players by their Facebook IDs, closely monitors their game play, and then prods people keep them spending on the virtual money on social casinos. 
+
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+A data-driven culture requires a data-driven decision-making process: develop plans based on numbers, execute, measure, evaluate, and then decide the next set of actions. 
+
+Based on the fact that the social casinos use behavioral analysis software to quickly identify people who are likely to become "big spenders". They define the behaviors affect the increase of the bet, or playing frequently, are signals to the companies 
 
 ## What are the transformation steps towards a mature data driven business?
 Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.

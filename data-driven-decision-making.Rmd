@@ -1,30 +1,34 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Vy Nguyen
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+## How social casinos leverage Facebook user data to target vulnerable gamblers?
 
-<---- Watch this video if you don't know how to embed video's ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FFtkFLNJZfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
+</iframe>
 
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The CEO of Big Fish Casnio designed the VIP system to target the tiny fraction of players who will actually pay. By gathering the data from FaceBook users, the social casinos/online casinos define its target group who is willing to pay large. 
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+A data-driven culture requires a data-driven decision-making process: develop plans based on numbers, execute, measure, evaluate, and then decide the next set of actions.
+
+The strategy aims to track players by their Facebook IDs, closely monitors their game play, and then prods people keep them spending on the virtual money on social casinos. 
+
+Based on the fact that the social casinos use behavioral analysis software to quickly identify people who are likely to become "big spenders". They define the behaviors affect the increase of the bet, or playing frequently, are signals to the companies 
+
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Before the digitization area, the traditional casinos was a million industry. People around the world had to travel to the central of casino industry to satisfy their hobby. On the other hands, social casinos/online casinos were considered as the scammers on the internet. Each company suffered to gain the credibility of the users to gain the profit for them. It could commit that this was the long ways for these companies to reach the high performance nowadays; with 5 billions dollars as the revenues for Big Fish Casino.
