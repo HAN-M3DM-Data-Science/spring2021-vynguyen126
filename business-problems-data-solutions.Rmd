@@ -9,19 +9,27 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FFtkFLNJZfM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yppVYMxreMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Airbnb is well-known as a data driven decision company. Every internal employees has a tool to access to the data like one stop shop. Airbnb created in-house program called "Data University" which anyone inside the company to give a path through education of their data skills in order to make many people make decisions through data as much as possible.
+
+The tool called "Data portal" helps internal employees to find and generate all the information within the company to make the data becomes searchable. 
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+The study case of Airbnb shows several data mining problems occur within the organization: 
+
+- Unavailability of data or difficult access to data.
+- Mining information from heterogeneous databases and global information systems
+- Incorporation of background knowledge: mining methodology and user interaction  
 
 ## What is the realized business value?
+Experimentation is Airbnb culture. They make progress through learning experimentation by lower barriers
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Take the insights of the data and make that actionable to the business values.
+
+Allow them to tag meta tag any information that is created so that when a piece of information is found, the finder will know when it created, who created, and the values its bring. 
