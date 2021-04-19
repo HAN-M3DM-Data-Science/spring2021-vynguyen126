@@ -14,7 +14,7 @@ output:
     toc_depth: 2
 ---
 
-Several packages have been installed to run the mining process.
+##Several packages have been installed to run the mining process.
 
 ```{r}
 library(tidyverse)
